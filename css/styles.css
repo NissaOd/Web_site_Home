@@ -1,0 +1,12 @@
+body {
+    font-family: "Poppins" 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: aqua;
+}
+
+.link {
+    color: rgb(36, 118, 34);
+}
+
+.link:hover {
+    color: tomato;
+}
